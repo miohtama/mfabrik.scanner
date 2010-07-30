@@ -11,12 +11,17 @@ downloads/*
 eggs/*
 fake-eggs/*
 parts/*
+develop-eggs/*
 dist
 .installed.cfg
 .mr.developer.cfg
 .hg
 .bzr
 .svn
+.metadata
+.DS_Store
+.project
+.pydevproject
 *.pyc
 *.pyo
 *.tmp*
